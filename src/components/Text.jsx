@@ -7,7 +7,7 @@ function Text() {
       options={{
         strings: [
           "Full Stack Engineer",
-          "React Js Developer",
+          "React Js / Typescript Developer",
           "Front End Developer",
         ],
         autoStart: true,

@@ -15,8 +15,7 @@ function Aboutpage() {
             </h3>
             <p className="aboutdetails">
               {" "}
-              Born in France, educated in London, and currently immersed in the
-              vibrant Israeli hi-tech scene, I bring a global perspective to my
+              Born in France, educated in London, I bring a global perspective to my
               work as a full-stack developer. I've got a knack for getting
               things done efficiently, breaking complex tasks into manageable
               steps, all while keeping a finger on the commercial pulse. My
